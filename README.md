@@ -1,1 +1,1 @@
-# CrispSprite
+# CrispSprite Demo
